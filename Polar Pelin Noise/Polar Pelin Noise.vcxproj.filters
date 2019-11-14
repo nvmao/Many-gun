@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Gobal.cpp" />
+    <ClCompile Include="Flatform.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Gun.cpp" />
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_0.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_1.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_2.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_3.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_4.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_5.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_6.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Projectile_7.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_8.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_9.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_10.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_11.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile_12.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Steering_Behaviors.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gobal.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Flatform.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Gun.h" />
+    <ClInclude Include="Projectile.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_0.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_1.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_2.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_3.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_4.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_5.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_6.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Projectile_7.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_8.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_9.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_10.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_11.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile_12.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="Steering_Behaviors.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Projectiles">
+      <UniqueIdentifier>{cdcfba94-e0ce-41ef-8e07-74912bd04422}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

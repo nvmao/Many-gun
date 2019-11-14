@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Project\repos\Polar Pelin Noise\Polar Pelin Noise\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Polar Pelin Noise.vcxproj -> D:\Project\repos\Polar Pelin Noise\Debug\Polar Pelin Noise.exe
